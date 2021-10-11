@@ -2,3 +2,7 @@ I'm in the main of branch
 
 
 I'm in branchA
+
+
+
+I'm in branchB
